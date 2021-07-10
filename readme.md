@@ -1,7 +1,7 @@
 ## Componentes do jogo
 - Personagens
 - "Motor" do jogo (onde está a inteligência)
-<br />
+
 ### Personagens
 - Tipos:
   - Humano
@@ -16,7 +16,7 @@
 - **Humanos** possuem, além dos demais atributos (características) de **Personagem**, um **sexo**.
 
 **Personagens possuem a capacidade de *apresentar sua habilidade*. (COMPORTAMENTO)**
-<br />
+
 ### "Motor" do jogo
 É o componente com a inteligência para controlar os elementos básicos de funcionalidade do jogo.
 
